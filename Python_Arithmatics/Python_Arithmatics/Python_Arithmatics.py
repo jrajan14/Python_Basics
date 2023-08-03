@@ -32,3 +32,13 @@ print ("I = ",i)
 
 j = str(a) + str(b)    # Concat values of a and b
 print ("J = ",j)
+
+############################################
+
+sqr = 3 ** 2           # ** (double asterix) is used for power (exponent) 
+cub = 2 ** 3         
+print ("3 power 2 = ", sqr)
+print ("2 power 3 = ", cub)
+
+div = 17//3            # // is used for floor dividion. ie: ignoring the remainder
+print ("17 // 3 = ", div)
