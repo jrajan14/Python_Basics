@@ -19,13 +19,16 @@ print ("A x B = ", e)
 f = a / b               # Division
 print ("A / B = ", f)
 
+g = a % b
+print ("A mod B = ", g) # Modulus (remainder)
+
 ###########################################
 
-g = a + 10             # Addition of variable and numeric value
-print ("G = ",g)
-
-h = "a" + "b"          # Concat two strings
+h = a + 10             # Addition of variable and numeric value
 print ("H = ",h)
 
-i = str(a) + str(b)    # Concat values of a and b
+i = "a" + "b"          # Concat two strings
 print ("I = ",i)
+
+j = str(a) + str(b)    # Concat values of a and b
+print ("J = ",j)
