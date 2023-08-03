@@ -1,10 +1,10 @@
 # Python Basic Programs
 # Arithmatics in Python
 
-a = 20
+a = 200
 print ("Value of A = ", a) #Note that a comma is used to concat the Mentioned string and value of variable
 
-b = 10
+b = 100
 print ("Value of B = ", b)
 
 c = a + b               # Addition
