@@ -4,3 +4,5 @@ Basic Python programs for NEW learners
 
 Python code is not compiled, It is interpreted.
 Therefore, it can be executed directly on any IDE.
+
+The above Python code is written in Python 3.
