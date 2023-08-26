@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python_ListFunctions", "Python_ListFunctions\Python_ListFunctions.pyproj", "{6D817734-FDA4-4327-939C-952C21FD086D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D817734-FDA4-4327-939C-952C21FD086D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D817734-FDA4-4327-939C-952C21FD086D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3216A783-EC77-4F92-9090-E2E9584BADCF}
+	EndGlobalSection
+EndGlobal
