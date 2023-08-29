@@ -1,6 +1,5 @@
 # Python Basics
 ## Basic Python programs for NEW learners
-### **NOTE : Pojects are coded using Visual studio, thus have a .sln file. for any other Python IDEs, use the .py file only.
 
 Python code is not compiled, It is interpreted.
 Therefore, it can be executed directly on any IDE.
@@ -28,3 +27,5 @@ Whether you're a student, a hobbyist, or someone looking to switch careers, lear
 So, dive in, tinker with code, and embrace the joy of discovery. Let's embark on this Python learning adventure together! Happy coding! 🎉"
 
 The above Python code is written in Python 3.
+### **NOTE : Pojects are coded using Visual studio, thus have a .sln file. for any other Python IDEs, use the .py file only.
+
