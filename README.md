@@ -8,7 +8,7 @@ Therefore it can be executed directly on any IDE.
 
 Are you new to the world of coding? Curious about Python? You're in the right place! This repository is designed with learners in mind, offering a collection of simple yet enlightening Python programs that serve as your starting point on this exciting journey.
 
-🌟 This Repository:
+🌟 
 
 Learning programming can be daunting, but it doesn't have to be. This repository aims to demystify Python by providing a handpicked selection of basic programs. These programs focus on fundamental concepts, helping you grasp the core principles while building your confidence. The projects are made directly along with a solution file, so you can execute it direction on Visual Studio.
 
