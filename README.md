@@ -4,7 +4,7 @@
 Python code is not compiled, It is interpreted.
 Therefore it can be executed directly on any IDE.
 
-🐍      Basic Python Programs for Learners       🚀
+🐍       Basic Python Programs for Learners        🚀
 
 Are you new to the world of coding? Curious about Python? You're in the right place! This repository is designed with learners in mind, offering a collection of simple yet enlightening Python programs that serve as your starting point on this exciting journey.
 
