@@ -24,7 +24,7 @@ Feel free to explore the programs at your own pace. Each program is accompanied 
 
 Whether you're a student, a hobbyist, or someone looking to switch careers, learning Python is a valuable skill. These basic programs lay the foundation for more advanced projects and ideas. Remember, the key is to keep learning, experimenting, and enjoying the process.
 
-So, dive in, tinker with code, and embrace the joy of discovery. Let's embark on this Python learning adventure together! Happy coding! 🎉
+So, dive in, tinker with code, and embrace the joy of discovery. Let's embark on this Python learning adventure together! Happy coding!   🎉
 
 The above Python code is written in Python 3.
 ### **NOTE : Pojects are coded using Visual studio, thus have a .sln file. for any other Python IDEs, use the .py file only.
