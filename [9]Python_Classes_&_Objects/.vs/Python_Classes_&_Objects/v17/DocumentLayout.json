@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jraja\\Documents\\GitHub\\Python_Basics\\[9]Python_Classes_\u0026_Objects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD55B41-B286-45E3-8A56-28C0E8AFD42B}|Python_Classes_\u0026_Objects\\Python_Classes_\u0026_Objects.pyproj|C:\\Users\\jraja\\Documents\\GitHub\\Python_Basics\\[9]Python_Classes_\u0026_Objects\\Python_Classes_\u0026_Objects\\Python_Classes___Objects.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBD55B41-B286-45E3-8A56-28C0E8AFD42B}|Python_Classes_\u0026_Objects\\Python_Classes_\u0026_Objects.pyproj|solutionrelative:Python_Classes_\u0026_Objects\\Python_Classes___Objects.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Python_Classes___Objects.py",
+              "DocumentMoniker": "C:\\Users\\jraja\\Documents\\GitHub\\Python_Basics\\[9]Python_Classes_\u0026_Objects\\Python_Classes_\u0026_Objects\\Python_Classes___Objects.py",
+              "RelativeDocumentMoniker": "Python_Classes_\u0026_Objects\\Python_Classes___Objects.py",
+              "ToolTip": "C:\\Users\\jraja\\Documents\\GitHub\\Python_Basics\\[9]Python_Classes_\u0026_Objects\\Python_Classes_\u0026_Objects\\Python_Classes___Objects.py",
+              "RelativeToolTip": "Python_Classes_\u0026_Objects\\Python_Classes___Objects.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-03-05T14:39:50.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
