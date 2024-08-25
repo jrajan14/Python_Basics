@@ -1,10 +1,10 @@
-# Python Basics
+ # Python Basics
 ## Basic Python programs for NEW learners
 
 Python code is not compiled, It is interpreted.
 Therefore it can be executed directly on any IDE. 
    
-🐍      Basic Python Programs for Learners     🚀
+🐍      Basic Python Programs for Learners       🚀
       
 Are you new to the world of coding? Curious about Python? You're in the right place! This repository is designed with learners in mind, offering a collection of simple yet enlightening Python programs that serve as your startin g point on this exciting journey.
 
