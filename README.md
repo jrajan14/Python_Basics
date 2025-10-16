@@ -26,6 +26,6 @@ Whether you're a student, a hobbyist, or someone looking to switch careers, lear
 to
 So, dive in, tinker with code, and embrace the joy of discovery. Let's embark on this Python learning adventure together! Happy coding!   🎉
 
-The above Python code is written in Python 3.
+The above Python code is written in Python 3. 
 ### **NOTE : Pojects are coded using Visual studio, thus have a .sln file. for any other Python IDEs, use the .py file only.
 
